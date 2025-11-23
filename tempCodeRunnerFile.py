@@ -1,0 +1,1 @@
+ls.", icon="cancel") except:pass # Fails silently if CTkMessagebox isn't fully loaded
