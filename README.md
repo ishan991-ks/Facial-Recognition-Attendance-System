@@ -52,3 +52,14 @@ A robust, real-time attendance logging application built with Python. This syste
     * When your face is recognized, the box turns **Green** and your attendance is logged to `Attendance.csv`.
 
 ## 📂 Project Structure
+
+├── KnownFaces/        # Stores registered user images
+├── Attendance.csv     # Daily attendance logs
+├── main.py            # Main application script
+└── README.md          # Documentation
+
+## 🤝 Contributing
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## 📄 License
+This project is open source and available under the [MIT License](LICENSE).
